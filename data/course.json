@@ -1,0 +1,41 @@
+{
+  "term": "Fall",
+  "year": "2023",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Cryptography"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "f97b1264-45d3-4e9e-a083-707d851691ef"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "c9864a48-322e-4694-a3a6-36cb3d43184a",
+    "website": "advanced-topics-in-cryptography"
+  },
+  "course_title": "Advanced Topics in Cryptography",
+  "hide_download": true,
+  "mit_learn_topics": [],
+  "course_description": "This course is about the\u00a0evolution\u00a0of\u00a0proofs\u00a0in computer science.\u00a0We will learn about the power of interactive\u00a0proofs, multi-prover interactive\u00a0proofs,\u00a0and probabilistically checkable\u00a0proofs.\u00a0 We will then show how to use cryptography to convert these powerful\u00a0proof\u00a0systems into computationally\u00a0sound non-interactive arguments (SNARGs).",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.5630",
+  "hide_download_original": false,
+  "learning_resource_types": [
+    "Lecture Videos"
+  ],
+  "site_uid": "e32bfede-11ba-4941-9f02-96923fe0af7f",
+  "site_short_id": "6.5630-fall-2023",
+  "site_url_path": "courses/6-5630-advanced-topics-in-cryptography-fall-2023"
+}
