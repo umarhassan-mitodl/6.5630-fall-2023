@@ -23,7 +23,7 @@
     "website": "advanced-topics-in-cryptography"
   },
   "course_title": "Advanced Topics in Cryptography",
-  "hide_download": true,
+  "hide_download": false,
   "mit_learn_topics": [],
   "course_description": "This course is about the\u00a0evolution\u00a0of\u00a0proofs\u00a0in computer science.\u00a0We will learn about the power of interactive\u00a0proofs, multi-prover interactive\u00a0proofs,\u00a0and probabilistically checkable\u00a0proofs.\u00a0 We will then show how to use cryptography to convert these powerful\u00a0proof\u00a0systems into computationally\u00a0sound non-interactive arguments (SNARGs).",
   "department_numbers": [
@@ -31,7 +31,6 @@
   ],
   "extra_course_numbers": "",
   "primary_course_number": "6.5630",
-  "hide_download_original": false,
   "learning_resource_types": [
     "Lecture Videos"
   ],
