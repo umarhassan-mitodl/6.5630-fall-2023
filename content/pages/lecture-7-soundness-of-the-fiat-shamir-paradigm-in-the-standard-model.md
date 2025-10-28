@@ -14,7 +14,7 @@ uid: 9110715d-58bc-476f-9c74-611fa7844248
 
 ## Readings
 
-R. Canetti, A. Lombardi, and D. Wichs, "[Fiat-Shamir: From Practice to Theory, Part II NIZK and Correlation Intractability from Circular-Secure FHE (PDF)](https://eprint.iacr.org/2018/1248.pdf)." STOC 2019: Proceedings of the 51st Annual ACM SIGACT Symposium on Theory of Computing, 1082–1090.
+R. Canetti, A. Lombardi, and D. Wichs, "{{% resource_link "0286c6bf-8dca-4d02-b38a-14a693634bdf" "Fiat-Shamir: From Practice to Theory, Part II NIZK and Correlation Intractability from Circular-Secure FHE (PDF)" %}}." STOC 2019: Proceedings of the 51st Annual ACM SIGACT Symposium on Theory of Computing, 1082–1090.
 
 ## Homework
 

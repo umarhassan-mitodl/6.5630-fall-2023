@@ -15,8 +15,8 @@ uid: de1d02cd-20a3-44ae-a1e6-65aa4faa61df
 
 ## Readings
 
-- J. Thaler, "[Proofs, Arguments, and Zero-Knowledge (PDF)](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf)," chapters 3.5, 4.3, 4.6 (2023).
--  S. Goldwasser, G. Rothblum, and Y. T. Kalai, "Delegating Computation: Interactive Proofs for Muggles." Electronic Colloquium on Computational Complexity, Report No. 108 (2017), [ECCC - TR17-108 (PDF).](https://eccc.weizmann.ac.il/report/2017/108/)
+- J. Thaler, "{{% resource_link "98826548-643f-40a2-8c14-0ea13eff214d" "Proofs, Arguments, and Zero-Knowledge (PDF)" %}}," chapters 3.5, 4.3, 4.6 (2023).
+-  S. Goldwasser, G. Rothblum, and Y. T. Kalai, "Delegating Computation: Interactive Proofs for Muggles." Electronic Colloquium on Computational Complexity, Report No. 108 (2017), {{% resource_link "b3df207a-6104-41d9-a2e7-c76fe2a1001d" "ECCC - TR17-108 (PDF)." %}}
 
 ## Lecture Videos
 
